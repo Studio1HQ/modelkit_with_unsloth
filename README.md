@@ -12,5 +12,4 @@ The goal of this repo is **reproducibility**: if you follow both the blog and no
 .
 ├── .gitignore
 ├── README.md
-├── Kitfile                 # The generated Kitfile
 ├── main.ipynb              # Commands & Examples shown on the blog
